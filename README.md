@@ -122,6 +122,10 @@ Repository description:
 > Agent-readable AI prose-pattern detector for finding AI-shaped writing
 > patterns and rewriting drafts into clearer, more specific human prose.
 
+## License
+
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
+
 Suggested topics:
 
 ```text
